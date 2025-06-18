@@ -1,0 +1,15 @@
+<!DOCTYPE>
+<html>
+    <head>
+        <t1>REGISTRATION FORM</FORM></t1><br>
+    </head>
+    <body>
+        <label for="ENTER NAME">ENTER NAME</label>
+        <input><br>
+        <label for="ENTER E-MAIL">ENTER E-MAIL</label>
+        <input><br>
+        <label for="ENTER PH-NUMBER">ENTER PH-NUMBER</label>
+        <input><br>
+        <button for="ENTER"> ENTER</button>
+    </body>
+</html>
